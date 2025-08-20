@@ -1,23 +1,23 @@
-🌞 Asian UV Index Data Analysis Projects
+# 🌞 Asian UV Index Data Analysis Projects
 
-**A collection of beginner-friendly data analysis projects exploring the Asian UV Index dataset for 2024.**
-This repository helps practice data analysis and visualization skills using Python.
+A collection of beginner-friendly data analysis projects exploring the **Asian UV Index dataset for 2024**.
+This repository is designed for practicing data analysis and visualization skills using Python.
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```
 Asian_UV_Index_Analysis/
 │
 ├── data/
-│   └── asian_uv_index_dataset_2024.csv   # Your dataset
+│   └── asian_uv_index_dataset_2024.csv   # Dataset
 │
 ├── scripts/
 │   ├── project_basic_statistics.py       # Basic descriptive stats
 │   ├── project_city_trends.py            # City-wise UV trends
 │   ├── project_country_avg_uv.py         # Country-wise average UV
-│   ├── project_uv_cloud_correlation.py   # UV vs Cloud Cover
+│   ├── project_uv_cloud_correlation.py   # UV vs Cloud Cover correlation
 │   └── project_max_uv_per_city.py        # Maximum UV per city
 │
 ├── README.md                             # Project description & instructions
@@ -26,11 +26,9 @@ Asian_UV_Index_Analysis/
 
 ---
 
-## About the Dataset
+## 📊 About the Dataset
 
 **File:** `asian_uv_index_dataset_2024.csv`
-
-**Columns:**
 
 | Column       | Description                                                |
 | ------------ | ---------------------------------------------------------- |
@@ -45,7 +43,7 @@ Asian_UV_Index_Analysis/
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### 1️⃣ Basic Statistical Analysis (প্রাথমিক ডেটা বিশ্লেষণ)
 
@@ -87,47 +85,38 @@ Asian_UV_Index_Analysis/
 
 ---
 
-## 🛠️ Tools and Libraries
+## 🛠️ Tools, Libraries, and Software Used
 
-* **Language:** Python
-* **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`
+**Programming Language:** Python 3.8+
+
+**Python Libraries:**
+
+* `pandas` – Data manipulation and analysis
+* `numpy` – Numerical computations and statistics
+* `matplotlib` – Static, animated, and interactive plotting
+* `seaborn` – Statistical data visualization
+
+**Software & IDEs:**
+
+* **Python** – [Download](https://www.python.org/downloads/)
+* **Jupyter Notebook** (optional, for interactive analysis)
+* **VS Code / PyCharm** – For writing and running Python scripts
+* **Git** – Version control
+
+**Operating System:** Windows 10/11, macOS, or Linux
 
 **requirements.txt**
 
 ```
-pandas
-numpy
-matplotlib
-seaborn
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
 ```
 
-🛠️ Tools, Libraries, and Software Used
+---
 
-Programming Language: Python 3.8+
-
-Python Libraries:
-
-pandas – Data manipulation and analysis
-
-numpy – Numerical computations and statistics
-
-matplotlib – Static, animated, and interactive plotting
-
-seaborn – Statistical data visualization
-
-Software & IDEs:
-
-Python – Download
-
-Jupyter Notebook (optional, for interactive analysis)
-
-VS Code / PyCharm – For writing and running Python scripts
-
-Git – Version control
-
-Operating System: Windows 10/11, macOS, or Linux
-
-## How to Run the Projects
+## ⚡ How to Run the Projects
 
 1. **Clone the repository**
 
@@ -153,4 +142,7 @@ pip install -r requirements.txt
 python scripts/project_basic_statistics.py
 python scripts/project_city_trends.py
 python scripts/project_country_avg_uv.py
+python scripts/project_uv_cloud_correlation.py
+python scripts/project_max_uv_per_city.py
 ```
+
