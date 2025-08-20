@@ -101,7 +101,31 @@ matplotlib
 seaborn
 ```
 
----
+🛠️ Tools, Libraries, and Software Used
+
+Programming Language: Python 3.8+
+
+Python Libraries:
+
+pandas – Data manipulation and analysis
+
+numpy – Numerical computations and statistics
+
+matplotlib – Static, animated, and interactive plotting
+
+seaborn – Statistical data visualization
+
+Software & IDEs:
+
+Python – Download
+
+Jupyter Notebook (optional, for interactive analysis)
+
+VS Code / PyCharm – For writing and running Python scripts
+
+Git – Version control
+
+Operating System: Windows 10/11, macOS, or Linux
 
 ## How to Run the Projects
 
