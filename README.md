@@ -72,7 +72,7 @@ File: `asian_uv_index_dataset_2024.csv`
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Asian_UV_Index_Analysis.git
+   git clone https://github.com/MotionPrograming/Asian_UV_Index_Analysis.git
 ````
 
 2. Navigate to the project directory:
