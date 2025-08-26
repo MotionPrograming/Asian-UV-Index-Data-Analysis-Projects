@@ -78,7 +78,7 @@ File: `asian_uv_index_dataset_2024.csv`
 2. Navigate to the project directory:
 
    ```bash
-   cd Asian_UV_Index_Analysis
+   cd Asian-UV-Index-Analysis
    ```
 
 3. Install required Python libraries:
@@ -90,14 +90,8 @@ File: `asian_uv_index_dataset_2024.csv`
 4. Run any project script, for example:
 
    ```bash
-   python scripts/project_basic_statistics.py
-   python scripts/project_city_trends.py
-   python scripts/project_country_avg_uv.py
-   python scripts/project_uv_cloud_correlation.py
-   python scripts/project_max_uv_per_city.py
+   python project--name.py
    ```
-
----
 
 ## 📂 Sample Visualizations
 
