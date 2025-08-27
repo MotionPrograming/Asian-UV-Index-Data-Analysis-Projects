@@ -72,27 +72,22 @@ File: `asian_uv_index_dataset_2024.csv`
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/MotionPrograming/Asian-UV-Index-Data-Analysis-Projects.git
+   git clone https://github.com/MotionPrograming/Asian-UV-Index-Data-Analysis-Projects.git
 
 2. Navigate to the project directory:
 
    ```bash
    cd Asian-UV-Index-Data-Analysis-Projects
-
    ```
-
 3. Install required Python libraries:
 
    ```bash
    pip install -r requirements.txt
    ```
-
 4. Run any project script, for example:
 
    ```bash
    jupyter notebook index.ipynb
-
-   ```
 
 ## 📂 Sample Visualizations
 
